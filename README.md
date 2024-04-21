@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi , I'm Carlos Guerrero <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <br>
 <br>
@@ -71,11 +72,3 @@
   
 <br>
 
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
